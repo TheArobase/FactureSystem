@@ -1,58 +1,30 @@
 <img src="https://i.ibb.co/VcDfYNgG/Facture-System.png" alt="Facture-System" border="0">
 
-<h1>🔫 P.P.A - Permis de Port d'Armes <em>pour Nova-Life</em></h1>
+<h1>📜 Facture System - Sysème de facture <em>pour Nova-Life</em></h1>
 
-P.P.A est un plugin conçu pour le jeu Nova-Life, ce plugin permet d'approfondir le R.P. Il permet de nombreuses fonctionnalités concernant les armes et offre un R.P de qualité supérieure.
+Facture System est un plugin conçu pour le jeu Nova-Life, ce plugin permet d'approfondir le R.P. Il permet de nombreuses fonctionnalités concernant les entreprises et offre un R.P de qualité supérieure. Ce plugin n'est pas là pour copier un précédent mais pour apporter du nouveau.
 
 <h2>❓~ A quoi ça sert ?</h2>
 
-Le plugin permis de port d'armes peut être utilisé de diverses manières. Il propose un approfondissement du métier de policier avec la possibilité de posséder le P.P.A. ou encore une possibilité de proposer les armes aux citoyens à condition qu'ils possèdent le permis de port d'arme. Elle propose une "activité custom" portant le nom "Armurerie" afin de pouvoir proposer la vente aux citoyens du permis de port d'armes.
+Le plugin Facture System peut être utilisé de diverses manières. Il propose un approfondissement des métiers et un système de facturation avancés afin de pousser le R.P. à son plus haut niveau.
 
 <h2>📲~ Fonctionnalités</h2>
 
 => Système de WebHook simplifié
 
-=> Possibilités d'opérer à distance grâce au fichier 'PPA.json'
+=> Possibilités d'opérer à distance grâce au fichier 'Facture.json'
+
+=> Accessible depuis le menu "P".
 
 <h2>🌀~ Les fonctionnalités en jeu</h2>
 
-- <h3>Pour les services de police : </h3>
+- <h3>Pour les entreprise : </h3>
 
-=> Possibilités de donner le P.P.A.
-
-=> Possibilités de retirer le P.P.A.
-
-=> Possibilités de se donner ou retirer le P.P.A.
-
-=> Possibilités de demande à un individus sont P.P.A. 
-
-- <h3>Pour l'armurerie : </h3>
-
-=> Possibilités de donner le P.P.A.
-
-=> Possibilités de retirer le P.P.A.
-
-=> Possibilités de se donner ou retirer le P.P.A.
-
-=> Possibilités de modifier le prix du P.P.A.
+=> Possibilités de facturer les clients en leur donnant une raison et un prix. (*Le montant de la facture étant versé à l'entreprise.*)
 
 - <h3>Pour les citoyens : </h3>
 
-=> Possibilités de montrer sont P.P.A.
-
-- <h3>Pour les administrateur : </h3>
-
-=> Possibilités de donner le P.P.A.
-
-=> Possibilités de retirer le P.P.A.
-
-=> Possibilités de se donner ou retirer le P.P.A.
-
-=> Possibilités de demande à un individus sont P.P.A.
-
-=> Possibilités de modifier le prix du P.P.A.
-
-=> Possibilités de voir la liste des joueurs possédant le P.P.A. avec leur nom et leur Steam ID. <br>
+=> Possibilités de reçevoir une facture avec une raison et un prix. (*Le montant de la facture étant retiré depuis le compte en banque du joueur.*)
 
 <h2>🔗~ Dépendances</h2>
 
